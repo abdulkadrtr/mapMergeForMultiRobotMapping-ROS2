@@ -17,9 +17,9 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='abd',
-    maintainer_email='abd@todo.todo',
-    description='TODO: Package description',
+    maintainer='abdulkadrtr',
+    maintainer_email='abdulkadirthe@gmail.com',
+    description='ROS2 Merge_Map package',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
